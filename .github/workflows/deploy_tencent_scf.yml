@@ -1,4 +1,4 @@
-name: 部署云函数
+name: 部署云函数 
 on:
   workflow_dispatch:
   schedule:
